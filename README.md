@@ -1,6 +1,6 @@
 HttpFoundation Component
 ========================
-
+ 
 The HttpFoundation component defines an object-oriented layer for the HTTP
 specification.
 
